@@ -1,2 +1,2 @@
 # NETFLIX-Movie-Dashboard----Tableau
-Data has 12 columns which include show id, title, type, director, cast, country, release year, description, rating and genre of the movies/TV shows. 
+Data has 12 columns which include show id, title, type, director, cast, country, release year, description, rating and genre of the movies/TV shows. Type column gives if each record is a movie or Tv show. Country column has all the countries a movie or show is released. Each movie or show belongs to one or more genres which is mentioned in the genre column separated by commas.
